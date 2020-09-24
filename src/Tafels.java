@@ -1,14 +1,16 @@
 public class Tafels {
     public static void main(String[] args) {
-        var getal = 8;
-        var uitkomst1 = 0;
+        String getal = 8;
+        int uitkomst1 = getal;
+        var uitkomst2 = 2 * getal;
+        var uitkomst3 = 3 * getal;
 
-        uitkomst1 = 1 * getal;
+        System.out.println ("1") ;
+        "1x" "+" (getal) = uitkomst1;
+        System.out.println("2");
+        "2x" + getal; = uitkomst2;
 
-        String regel1 = "1 x ";getal
-        String regel2 = " = ";uitkomst1
 
-        System.out.println(regel1);
 
     }
 
