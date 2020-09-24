@@ -8,7 +8,7 @@ public class Tafels {
         System.out.println ("1") ;
         "1x" "+" (getal) = uitkomst1;
         System.out.println("2");
-        "2x" + getal; = uitkomst2;ttt
+        "2x" + getal; = uitkomst2
 
 
 
